@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
-  }
+  },
+  {
+    "title": "git branch",
+    "description": "This command to can be used for various purposes like listing a branch or creating a branch and also for deleting a branch.
+  },
 ]
